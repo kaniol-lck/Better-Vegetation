@@ -1,0 +1,7 @@
+{
+    "parent": "block/seagrass/seagrass_4",
+    "textures": {
+        "cross": "block/seagrass/2",
+        "sprigs": "block/seagrass/4"
+    }
+}

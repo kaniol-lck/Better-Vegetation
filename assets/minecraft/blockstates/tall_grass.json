@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "half=lower": [
+          { "model": "block/grass/1_5" },
+          { "model": "block/grass/2_5" },
+          { "model": "block/grass/3_5" },
+          { "model": "block/grass/4_5" },
+          { "model": "block/grass/5_5" }
+        ],
+        "half=upper": [
+          { "model": "block/tall_grass/1_1" },
+          { "model": "block/tall_grass/1_2" },
+          { "model": "block/tall_grass/1_3" },
+          { "model": "block/tall_grass/1_4" },
+          { "model": "block/tall_grass/2_1" },
+          { "model": "block/tall_grass/2_2" },
+          { "model": "block/tall_grass/2_3" },
+          { "model": "block/tall_grass/2_4" }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/seagrass/seagrass_4",
+    "textures": {
+        "cross": "block/seagrass/5"
+    }
+}

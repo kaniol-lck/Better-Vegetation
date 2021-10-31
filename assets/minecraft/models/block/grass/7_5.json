@@ -1,0 +1,6 @@
+{
+    "parent": "block/grass/grass_5",
+    "textures": {
+        "cross": "block/grass/7"
+    }
+}

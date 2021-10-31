@@ -1,0 +1,33 @@
+{
+    "variants": {
+        "": [
+          { "model": "block/seagrass/1_1", "weight": 1 },
+          { "model": "block/seagrass/2_1", "weight": 1 },
+          { "model": "block/seagrass/3_1", "weight": 1 },
+          { "model": "block/seagrass/1_2", "weight": 3 },
+          { "model": "block/seagrass/2_2", "weight": 3 },
+          { "model": "block/seagrass/3_2", "weight": 2 },
+          { "model": "block/seagrass/1_3", "weight": 4 },
+          { "model": "block/seagrass/2_3", "weight": 2 },
+          { "model": "block/seagrass/3_3", "weight": 2 },
+          { "model": "block/seagrass/1_4", "weight": 1 },
+          { "model": "block/seagrass/2_4", "weight": 2 },
+          { "model": "block/seagrass/3_4", "weight": 1 }
+        ]
+    }
+}
+
+[
+          { "model": "block/seagrass/1_1", "weight": 1 },
+          { "model": "block/seagrass/2_1", "weight": 1 },
+          { "model": "block/seagrass/3_1", "weight": 1 },
+          { "model": "block/seagrass/1_2", "weight": 3 },
+          { "model": "block/seagrass/2_2", "weight": 3 },
+          { "model": "block/seagrass/3_2", "weight": 2 },
+          { "model": "block/seagrass/1_3", "weight": 4 },
+          { "model": "block/seagrass/2_3", "weight": 2 },
+          { "model": "block/seagrass/3_3", "weight": 2 },
+          { "model": "block/seagrass/1_4", "weight": 1 },
+          { "model": "block/seagrass/2_4", "weight": 2 },
+          { "model": "block/seagrass/3_4", "weight": 1 }
+        ]
